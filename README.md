@@ -1,14 +1,9 @@
 
 > Open this page at [https://shelibenmoshe.github.io/reactiongame1/](https://shelibenmoshe.github.io/reactiongame1/)
 
-## Use as Extension
-
-This repository can be added as an **extension** in MakeCode.
-
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/shelibenmoshe/reactiongame1** and import
+link to this tutorial
+##tutorial
+*[totorial](/tutorial)
 
 ## Edit this project ![Build status badge](https://github.com/shelibenmoshe/reactiongame1/workflows/MakeCode/badge.svg)
 
