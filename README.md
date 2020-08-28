@@ -3,7 +3,7 @@
 
 link to this tutorial
 ##tutorial
-*[totorial](/tutorial)
+*[reactionInhebrew](/tutorial)
 
 ## Edit this project ![Build status badge](https://github.com/shelibenmoshe/reactiongame1/workflows/MakeCode/badge.svg)
 
